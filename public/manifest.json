@@ -1,6 +1,6 @@
 {
-  "short_name": "Reactron Boilerplate",
-  "name": "Create Desktop App",
+  "short_name": "VPN Manager",
+  "name": "Desktop App VPN Manager",
   "icons": [
     {
       "src": "favicon.ico",
